@@ -1,8 +1,10 @@
 # texture_unifier.py
 
-author = Mirafiori Elia elia.mirafiori@gmail.com
+author = Mirafiori Elia el.mirafiori@gmail.com
+
 date = 2018-01-25
-version = 01.01
+
+version = 01.01.01
 
 # Folders
 - ## bin
