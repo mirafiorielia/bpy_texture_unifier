@@ -1,18 +1,18 @@
 # texture_unifier.py
 
-_author_ = Mirafiori Elia elia.mirafiori@gmail.com
-_date_ = 2018-01-25
-_version_ = 01.01
+author = Mirafiori Elia elia.mirafiori@gmail.com
+date = 2018-01-25
+version = 01.01
 
 # Folders
-> - ## bin
->> - Files in bin:
->>> - texture_unifier.py
->>>> - This is the program written in Python 3.6.3
-> - ## doc
->> - Files in doc:
->>> - README.md
->>>> - This are the program's informations
+- ## bin
+- ### Files in bin:
+- texture_unifier.py
+- This is the program written in Python 3.6.3
+- ## doc
+- ### Files in doc:
+- README.md
+- This are the program's informations
 
 ## How to use it:
 > - In blender open the Scripting window
