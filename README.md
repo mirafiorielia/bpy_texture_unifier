@@ -7,12 +7,12 @@ version = 01.01
 # Folders
 - ## bin
 - ### Files in bin:
-- texture_unifier.py
-- This is the program written in Python 3.6.3
+-- texture_unifier.py
+-- This is the program written in Python 3.6.3
 - ## doc
 - ### Files in doc:
-- README.md
-- This are the program's informations
+-- README.md
+-- This are the program's informations
 
 ## How to use it:
 > - In blender open the Scripting window
