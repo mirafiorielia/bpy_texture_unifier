@@ -1,9 +1,9 @@
 """
 texture_unifier.py
 """
-_author_ = "Mirafiori Elia elia.mirafiori@gmail.com"
+_author_ = "Mirafiori Elia el.mirafiori@gmail.com"
 _date_ = "2018-02-22"
-_version_ = "01.01"
+_version_ = "01.01.01"
 
 import bpy
 import os
